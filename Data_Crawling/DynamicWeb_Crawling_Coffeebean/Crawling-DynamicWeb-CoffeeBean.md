@@ -14,7 +14,7 @@ wd.get("http://www.hanbit.co.kr")  #selenium이 제어하는 크롬창에서 웹
 
 ### 2. 웹페이지 분석하기
 - 분석목표 : 동적활동에 연결된 js함수 확인
-![alt text](images/image-web2.png)
+![alt text](../images/image-web2.png)
 - 과정 : [자세히보기] 버튼에 연결된 자바스크립트명 확인: javascript:storePop2(no)> 한 가게정보로 들어가서 개발자모드(F12) > Sources에서 js,pages,store=2022로 들어감> 점3개, Search클릭> 검색할 함수어 입력 : storePop2> 검색결과에서 함수정의 더블클릭하면 소스창에 표시됨 > 마지막 매장번호 확인하기(신규매장에서 젤 첫번째매장의 js함수명 보면됨) : 388번
 
 ### 숨겨진 과정
