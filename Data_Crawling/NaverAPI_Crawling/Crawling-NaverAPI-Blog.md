@@ -24,6 +24,6 @@
 6. 검색 API 이용 안내 페이지 확인 
 
 ### 네이버 API 개발자 가이드
-![네이버 검색 API개발자 가이드1](images/image-2.png)
-![네이버 검색 API개발자 가이드2](images/image-3.png)
+![네이버 검색 API개발자 가이드1](../images/image-2.png)
+![네이버 검색 API개발자 가이드2](../images/image-3.png)
 

@@ -9,8 +9,8 @@
 - *샘플코드 : 서비스 URL과 매개변수를 연결해서 만든 url에 HTTP 요청을 보내고 응답을 받는 작업을 프로그래밍 언어로 구현한 코드를 보임
 
 ## 전체작업 설계
-![publicAPI전체작업설계](images/image-6.png)
-![pubicAPI프로그램구성설계](images/image-7.png)
+![publicAPI전체작업설계](../images/image-6.png)
+![pubicAPI프로그램구성설계](../images/image-7.png)
 
 ## [CODE 0] 설명
 ### [CODE 0] 변수
@@ -82,4 +82,4 @@ url 접속을 요청하고 응답을 받아서 반환
 
 ## 실행결과
 국가코드 112, 데이터수집 시작연도는 2017, 데이터수집 마지막연도는 2021입력 > 실행됨 > 실행 끝나면 파일이 저장된 위치에 JSON파일과 CSV파일이 생성됨. > 결과확인
-![publicAPI실행결과](images/image-8.png)
+![publicAPI실행결과](../images/image-8.png)
