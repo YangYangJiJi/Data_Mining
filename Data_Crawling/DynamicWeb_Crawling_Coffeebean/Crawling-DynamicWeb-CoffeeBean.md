@@ -19,7 +19,7 @@ wd.get("http://www.hanbit.co.kr")  #selenium이 제어하는 크롬창에서 웹
 
 ### 숨겨진 과정
 개발자모드로 홈페이지 들어가서 html소스의 elements 구조를 확인  
-![alt text](image-web3.png)
+![alt text](../images/image-web3.png)
 
 ### 결과 확인
-![alt text](image-web4.png)
+![alt text](../images/image-web4.png)
