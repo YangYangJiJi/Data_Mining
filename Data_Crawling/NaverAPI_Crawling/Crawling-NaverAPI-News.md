@@ -4,8 +4,8 @@
 - 사용자로부터 입력받은 검색어가 들어간 100개의 naver news 정보가  json파일로 저장되어 나옴
 
 ## 전체작업 설계
-![전체작업설계](images/image.png)
-![프로그램구성설계](images/image-1.png)
+![전체작업설계](../images/image.png)
+![프로그램구성설계](../images/image-1.png)
 
 ## [CODE 0] 설명
 ### [CODE 0] 변수
@@ -81,7 +81,7 @@ JSON 형식의 응답 데이터를 필요한 항목만 정리하여 딕셔너리
 - jsonResult.append(): 리스트 객체인 jsonResul에 원소를 추가
 
 ## 작동결과
-![naverAPI-news작동결과](images/image-4.png)
-![naverAPI-news작동결과 in web](images/image-5.png)
+![naverAPI-news작동결과](../images/image-4.png)
+![naverAPI-news작동결과 in web](../images/image-5.png)
 - 코드를 파이썬에 복붙 후 실행 > "검색어를 입력하세요 :" 월드컵 입력 > 바탕화면에 JSON파일 생성됨 > JSON파일 확인
 - *에러이유 : 원래는 13만4천건 가져올 수 있는데 네이버측에서 1000개만 가져오도록 설정해놔서 STOP되고 오류메시지 뜸 
