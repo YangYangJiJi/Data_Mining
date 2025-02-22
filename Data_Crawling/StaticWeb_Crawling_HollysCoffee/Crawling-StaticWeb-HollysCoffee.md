@@ -7,7 +7,7 @@
 ### 웹페이지 크롤링 하기 전 확인!!!!
 - 웹페이지를 크롤링하기 전에 크롤링 허용여부를 확인하기 위해 주소창에 ‘크롤링할 주소/robots.txt’를 입력
 - 만약 robotx.txt 파일이 없다면 수집에 대한 정책이 따로 없다는 의미.
-![alt text](images/image-web1.png)
+![alt text](../images/image-web1.png)
 - 사진처럼 Allow:/ 이거나 Disallow : 일때만 이 웹페이지 크롤링이 가능하다.
 
 ### 웹페이지 분석하기.
